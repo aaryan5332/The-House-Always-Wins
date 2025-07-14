@@ -35,7 +35,7 @@ The "Cash Out" button has mischievous behavior:
 
 1. **Clone and Navigate**
    ```bash
-   cd the-house-always-wins-rdeyqm
+   cd The-House-Always-Wins
    ```
 
 2. **Set up Virtual Environment** (recommended)
